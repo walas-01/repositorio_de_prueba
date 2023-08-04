@@ -1,5 +1,21 @@
-html, body {
-  margin: 0px;
-  padding: 0px;
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: rgb(39, 41, 40);
 }
-/*# sourceMappingURL=style.css.map */
+
+.section {
+  margin: 3vw;
+  border: 1px solid rgb(255, 255, 255);
+  border-radius: 1rem;
+  padding: 2rem;
+}
+.section img {
+  width: 12vw;
+}
+.section .card {
+  width: -moz-min-content;
+  width: min-content;
+}/*# sourceMappingURL=style.css.map */
